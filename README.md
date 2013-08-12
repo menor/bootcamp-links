@@ -1,4 +1,6 @@
-bootcamp-links
-==============
+Dev Bootcamp Links
+==================
 
-A list of links to things reading to prepare for Dev Bootcamp in SF
+A list of links to things I'm reading to prepare for Dev Bootcamp in SF.
+
+
